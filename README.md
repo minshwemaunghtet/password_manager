@@ -1,3 +1,3 @@
 # Password_Manager GUI application
 
-Simple GUI application built with Python standard libarary called tkinter
+It is just a fun project! 
